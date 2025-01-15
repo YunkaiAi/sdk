@@ -1,6 +1,6 @@
 # Yunkai Ai: The Future of Image - AI-Powered Tokenization on Solana
 
-![Yunkai Ai Logo](https://yunkaiai.xyz/_next/image?url=%2Flogo.webp&w=256&q=75)
+![Yunkai Ai Logo](https://raw.githubusercontent.com/YunkaiAi/sdk/refs/heads/main/images/yurilogo.png)
 
 Welcome to the **Yunkai Ai** project, where the future of decentralized images meets artificial intelligence. Yunkai Ai is a revolutionary platform built on the Solana blockchain, combining cutting-edge AI and decentralized technology to create a new world of possibilities for gamers, developers, and creators. Through the Yunkai Ai token ($YUNKAI), users can experience the next level of digital interaction, earning rewards, trading assets, and contributing to a growing ecosystem.
 ### Structure for SDK (`yunkai-sdk.js`):
