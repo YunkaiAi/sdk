@@ -1,0 +1,17 @@
+{
+  "name": "YunkaiAi",
+  "version": "1.0.0",
+  "description": "SDK for AI-Powered Image Generation and Tokenization on Solana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/generateImage.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.40.0",
+    "@solana/spl-token": "^0.2.0",
+    "axios": "^0.26.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
